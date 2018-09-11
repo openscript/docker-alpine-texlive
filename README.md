@@ -1,5 +1,3 @@
-![](docker_latex_banner.png)
-
 # docker-alpine-texlive
 [![](https://images.microbadger.com/badges/version/ivanpondal/alpine-latex.svg)](https://microbadger.com/images/ivanpondal/alpine-latex "Get your own version badge on microbadger.com")
 [![](https://images.microbadger.com/badges/image/ivanpondal/alpine-latex.svg)](https://microbadger.com/images/ivanpondal/alpine-latex "Get your own image badge on microbadger.com")
